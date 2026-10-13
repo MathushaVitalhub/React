@@ -1,0 +1,68 @@
+[
+  {
+    "id": "A-501",
+    "patientId": "P-1001",
+    "patientName": "Ava Thompson",
+    "providerName": "Dr. Maya Chen",
+    "date": "2026-10-20",
+    "time": "09:30",
+    "type": "Check-up",
+    "status": "Scheduled",
+    "notes": "Sample annual visit."
+  },
+  {
+    "id": "A-502",
+    "patientId": "P-1002",
+    "patientName": "Noah Patel",
+    "providerName": "Dr. Omar Haddad",
+    "date": "2026-10-15",
+    "time": "14:00",
+    "type": "Follow-up",
+    "status": "Scheduled",
+    "notes": "Bring the sample intake form."
+  },
+  {
+    "id": "A-503",
+    "patientId": "P-1005",
+    "patientName": "Sofia Nguyen",
+    "providerName": "Dr. Maya Chen",
+    "date": "2026-11-02",
+    "time": "11:15",
+    "type": "Consultation",
+    "status": "Scheduled",
+    "notes": "Fictional sample appointment."
+  },
+  {
+    "id": "A-504",
+    "patientId": "P-1003",
+    "patientName": "Mia Alvarez",
+    "providerName": "Dr. Priya Shah",
+    "date": "2026-09-28",
+    "time": "10:00",
+    "type": "Check-up",
+    "status": "Completed",
+    "notes": "Sample visit already finished."
+  },
+  {
+    "id": "A-505",
+    "patientId": "P-1004",
+    "patientName": "Liam Brooks",
+    "providerName": "Dr. Omar Haddad",
+    "date": "2026-10-01",
+    "time": "15:45",
+    "type": "Follow-up",
+    "status": "Completed",
+    "notes": "Sample paperwork was collected."
+  },
+  {
+    "id": "A-506",
+    "patientId": "P-1006",
+    "patientName": "Ethan Ward",
+    "providerName": "Dr. Priya Shah",
+    "date": "2026-10-18",
+    "time": "13:00",
+    "type": "Consultation",
+    "status": "Cancelled",
+    "notes": "Sample visit marked cancelled."
+  }
+]
